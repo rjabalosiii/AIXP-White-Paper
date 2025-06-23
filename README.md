@@ -4,9 +4,10 @@ This repository contains the official white paper and related materials for the 
 
 ## Downloads
 - [Full White Paper (61 pages, PDF)](AI_Expert_Panel_for_Evidence_Based_Medicine.pdf)
+- - [Executive Summary (6 pages, PDF)](https://github.com/rjabalosiii/AIXP-White-Paper/blob/main/Executive%20Summary%20-%20AI_Expert_Panel_for_Evidence_Based_Medicine.pdf)
 
 ## Overview
-AIXP addresses biases and delays in medical guidelines by auditing studies, synthesizing evidence, and updating in real time. Learn more in the full paper.
+AIXP addresses biases and delays in medical guidelines by auditing studies, synthesizing evidence, and updating in real time. Learn more in the summary or full paper.
 
 ## Get Involved
 - Share this repo: [(https://github.com/rjabalosiii/AIXP-White-Paper/)]
